@@ -1,12 +1,18 @@
 # Lumen Skills
 
-无需 GitHub 账号即可从 Releases 下载安装包，公开仓库支持匿名 HTTPS 克隆和拉取。Lumen 团队的项目技能。当前发布 **Lumen CBSA 2.0.0**，业务依据为 **Lumen CBSA 业务知识库 v2.0**。装好后选中技能，直接聊球房办赛、业务规则、产品需求、进度或研发工作；输入 `help` 查看示例和实际加载的版本。
+无需 GitHub 账号即可从 Releases 下载安装包，公开仓库支持匿名 HTTPS 克隆和拉取。Lumen 团队的项目技能。当前发布 **Lumen CBSA 2.0.1**，业务依据为 **Lumen CBSA 业务知识库 v2.0**。装好后选中技能，直接聊球房办赛、业务规则、产品需求、进度或研发工作；输入 `help` 查看示例和实际加载的版本。
 
-[下载团队安装包和说明](https://github.com/devin0318/lumen-skills/releases/tag/lumen-cbsa-v2.0.0) · [各客户端安装、更新与旧版卸载](使用指南.md) · [打开业务知识库首页](<plugins/lumen-cbsa/skills/lumen-cbsa/references/00 首页 · Lumen CBSA v2.0.md>)
+[下载团队安装包和说明](https://github.com/devin0318/lumen-skills/releases/tag/lumen-cbsa-v2.0.1) · [各客户端安装、更新与旧版卸载](使用指南.md) · [打开业务知识库首页](<plugins/lumen-cbsa/skills/lumen-cbsa/references/00 首页 · Lumen CBSA v2.0.md>)
 
 ## 发到群里
 
-> Lumen CBSA 更新了，附件是安装包和说明。这版用的是 CBSA 业务知识库 v2.0。装好后在对话里选 lumen-cbsa，直接说你手头的事就行，比如“球房中途换台，前面打的比分怎么算？”也可以把需求文档交给它一起看。输入 help 能看到版本，应该是 Skill 2.0.0、知识库 v2.0。以前装过 lumen 的，确认新版能用后，按说明最后一节把旧版移走。
+把这段发给自己的 Agent 即可。
+
+> 请按团队《使用指南》，在当前 Agent 安装或更新 `lumen-cbsa`。已安装的先检查来源和版本，沿用原渠道更新；首次安装优先选能自动更新的方式。需要上传 ZIP 时，请选指南列出的 Lumen CBSA 当前正式版。
+>
+> https://github.com/devin0318/lumen-skills/blob/main/使用指南.md
+>
+> 完成后调用 `lumen-cbsa help`，告诉我实际加载的 Skill 版本和知识库版本。确认新版可用后，如果还装着旧技能 `lumen`，只在当前 Agent 里停用或移走这个旧技能，保留同名项目文件夹。需要我操作时，告诉我点哪里。
 
 ## 维护和发布
 
