@@ -1,0 +1,13 @@
+{
+  "name": "lumen-skills",
+  "owner": {
+    "name": "Lumen"
+  },
+  "plugins": [
+    {
+      "name": "lumen-cbsa",
+      "source": "./plugins/lumen-cbsa",
+      "description": "Lumen 团队的 CBSA 台球赛事业务助手。"
+    }
+  ]
+}

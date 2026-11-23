@@ -1,0 +1,9 @@
+{
+  "name": "lumen-cbsa",
+  "displayName": "Lumen CBSA",
+  "version": "2.0.0",
+  "description": "查 CBSA 办赛规则、编写需求、跟进项目和核对实现。",
+  "author": {
+    "name": "Lumen"
+  }
+}

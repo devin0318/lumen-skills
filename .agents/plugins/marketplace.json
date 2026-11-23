@@ -1,0 +1,20 @@
+{
+  "name": "lumen-skills",
+  "interface": {
+    "displayName": "Lumen Skills"
+  },
+  "plugins": [
+    {
+      "name": "lumen-cbsa",
+      "source": {
+        "source": "local",
+        "path": "./plugins/lumen-cbsa"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
