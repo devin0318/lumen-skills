@@ -1,7 +1,7 @@
 {
   "name": "lumen-cbsa",
-  "version": "2.0.2",
-  "description": "查 CBSA 办赛规则、编写需求、跟进项目和核对实现。",
+  "version": "2.1.0",
+  "description": "查 CBSA 办赛规则、编写需求、跟进项目、核对实现和办理 Gitee 提案。",
   "author": {
     "name": "Lumen"
   },

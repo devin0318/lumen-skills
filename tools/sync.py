@@ -29,6 +29,9 @@ def check_clone():
         raise ValueError("请在 lumen-skills 的独立 Git 克隆中运行。")
     url = git("remote", "get-url", "origin").removesuffix(".git")
     if url not in {
+        "https://gitee.com/devin0318/lumen-skills",
+        "git@gitee.com:devin0318/lumen-skills",
+        "ssh://git@gitee.com/devin0318/lumen-skills",
         "https://github.com/devin0318/lumen-skills",
         "git@github.com:devin0318/lumen-skills",
         "ssh://git@github.com/devin0318/lumen-skills",
