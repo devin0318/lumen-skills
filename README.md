@@ -1,8 +1,8 @@
 # Lumen Skills
 
-无需 GitHub 账号即可从 Releases 下载安装包，公开仓库支持匿名 HTTPS 克隆和拉取。Lumen 团队的项目技能。当前发布 **Lumen CBSA 2.0.1**，业务依据为 **Lumen CBSA 业务知识库 v2.0**。装好后选中技能，直接聊球房办赛、业务规则、产品需求、进度或研发工作；输入 `help` 查看示例和实际加载的版本。
+无需 GitHub 账号即可从 Releases 下载安装包，公开仓库支持匿名 HTTPS 克隆和拉取。Lumen 团队的项目技能。当前发布 **Lumen CBSA 2.0.2**，业务依据为 **Lumen CBSA 业务知识库 v2.0**。装好后选中技能，直接聊球房办赛、业务规则、产品需求、进度或研发工作；输入 `help` 查看示例和实际加载的版本。
 
-[下载团队安装包和说明](https://github.com/devin0318/lumen-skills/releases/tag/lumen-cbsa-v2.0.1) · [各客户端安装、更新与旧版卸载](使用指南.md) · [打开业务知识库首页](<plugins/lumen-cbsa/skills/lumen-cbsa/references/00 首页 · Lumen CBSA v2.0.md>)
+[下载团队安装包和说明](https://github.com/devin0318/lumen-skills/releases/tag/lumen-cbsa-v2.0.2) · [各客户端安装、更新与旧版卸载](使用指南.md) · [打开业务知识库首页](<plugins/lumen-cbsa/skills/lumen-cbsa/references/00 首页 · Lumen CBSA v2.0.md>)
 
 ## 发到群里
 
